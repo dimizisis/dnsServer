@@ -11,7 +11,7 @@ Simple DNS Server made with C (returns IP address, given a host name (i.e. www.g
 3) From clDNS enter host names and server will return its IP address. If host name does not exist, returns -1.
 4) To exit, CTRL+C or just ENTER.
 
-## ** NOTE **
+## NOTE
 
 This was a university project. Ignore non-LOCAL or LOCAL after IP.
 
